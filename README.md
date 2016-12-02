@@ -8,4 +8,4 @@ Next, the categories of the links are plotted in a network in plotNetwork.py. Th
 The resulting network is then plotted and saved to a png.
 
 
-n
+nd
